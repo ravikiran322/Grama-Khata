@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="gcm_defaultSenderId" translatable="false">856382514980</string>
-    <string name="google_api_key" translatable="false">AIzaSyD2lQctl1WzRAwUuLrqgBMAwJWobgRKeo4</string>
-    <string name="google_app_id" translatable="false">1:856382514980:android:c15d7e13d8f92fed3ff5b1</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD2lQctl1WzRAwUuLrqgBMAwJWobgRKeo4</string>
-    <string name="google_storage_bucket" translatable="false">grama-khata-74466.firebasestorage.app</string>
-    <string name="project_id" translatable="false">grama-khata-74466</string>
-</resources>
