@@ -114,7 +114,7 @@ GramaKhataApp/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/ravikiran322/GramaKhataApp.git
+git clone https://github.com/ravikiran322/Grama-Khata
 ```
 
 ---
@@ -221,8 +221,7 @@ If you found this project useful, give it a ⭐ on GitHub and support the projec
 
 # 📬 Contact
 
-📧 Email: your-email@example.com  
-🌐 GitHub: your-github-profile  
+📧 Email: ravikiran14444@gmail.com  
 
 ---
 
