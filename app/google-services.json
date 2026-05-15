@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856382514980",
+    "project_id": "grama-khata-74466",
+    "storage_bucket": "grama-khata-74466.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856382514980:android:c15d7e13d8f92fed3ff5b1",
+        "android_client_info": {
+          "package_name": "com.example.grama_khatamicro_finance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2lQctl1WzRAwUuLrqgBMAwJWobgRKeo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
